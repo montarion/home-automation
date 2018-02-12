@@ -1,0 +1,14 @@
+
+Starting Nmap 6.47 ( http://nmap.org ) at 2017-05-23 14:22 CEST
+Nmap scan report for 192.168.178.1
+Host is up (0.0057s latency).
+MAC Address: C8:0E:14:ED:D6:AD (Unknown)
+Nmap scan report for 192.168.178.20
+Host is up (0.011s latency).
+MAC Address: 00:02:9B:78:5F:B7 (Kreatel Communications AB)
+Nmap scan report for 192.168.178.31
+Host is up (-0.073s latency).
+MAC Address: AC:9E:17:83:6B:6B (Unknown)
+Nmap scan report for GREYTITAN (192.168.178.30)
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 3.10 seconds
